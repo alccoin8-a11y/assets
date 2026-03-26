@@ -1,0 +1,11 @@
+{
+  "name": "ALC Coin",
+  "website": "https://aanandmylifecare.com/",
+  "description": "ALC Coin is a BEP20 token on Binance Smart Chain.",
+  "explorer": "https://bscscan.com/token/0xF2f9F71Ed8f7a188a8471745a4C9Be076F4e22a7",
+  "type": "BEP20",
+  "symbol": "ALC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xF2f9F71Ed8f7a188a8471745a4C9Be076F4e22a7"
+}
